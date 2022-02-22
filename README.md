@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuryHouse
 - 👀 I’m interested in front-end dewelopment.
-- 🌱 I’m currently learning TS, React & Redux
+- 🌱 I’m currently learning TS, React & Redux.
 - 💞️ I’m looking for a new Job.
 - 📫 If you have any inquiries or would like to arrange an interview, please call me at +375 44 715 92 93 or email me at yuryzhykharka@gmail.com.
 

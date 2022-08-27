@@ -1,7 +1,21 @@
 # YURY ZHYKHARKA
-## ABOUT ME
+## About me
 Hello, I am a person who has a strong passion for programming. I have experience in creating SPA with React, Redux, Redux Toolkit, TypeScript.
 At the moment I am improving my skills in this direction and expanding them with the help of new technologies.
 I'd like to learn Angular and Node.js because my next goal is to become a Full-Stack developer.
 I spend my free time playing Codewars or with educational books in English.
 Open for your suggestions.
+## My Skills
+- React / Formik
+- JavaScript / TypeScript
+- HTML5 / Markdown
+- CSS3 / SASS
+- AXIOS / REAT API
+- Unit Tests / StoryBook
+- Material UI / Ant Design
+- Redux / Redux Toolkit
+- Git / GitHub / GitHub Pages
+## Contacts
+Mobile: +375 44 715 92 93
+E-mail: yury.house@yahoo.com
+My Portfolio: https://yuryhouse.github.io/yurasz-portfolio/

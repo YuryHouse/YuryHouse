@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @YuryHouse
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning Redux Toolkit.
-- 💞️ I’m looking for a new Job.
-- 📫 If you have any inquiries or would like to arrange an interview, please call me at +375 44 715 92 93 or email me at yury.house@yahoo.com.
-
-<!---
-YuryHouse/YuryHouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# YURY ZHYKHARKA
+## ABOUT ME
+Hello, I am a person who has a strong passion for programming. I have experience in creating SPA with React, Redux, Redux Toolkit, TypeScript.
+At the moment I am improving my skills in this direction and expanding them with the help of new technologies.
+I'd like to learn Angular and Node.js because my next goal is to become a Full-Stack developer.
+I spend my free time playing Codewars or with educational books in English.
+Open for your suggestions.

@@ -16,6 +16,6 @@ Open for your suggestions.
 - Redux / Redux Toolkit
 - Git / GitHub / GitHub Pages
 ## Contacts
-Mobile: +375 44 715 92 93
-E-mail: yury.house@yahoo.com
-My Portfolio: https://yuryhouse.github.io/yurasz-portfolio/
+<p>Mobile: +375 44 715 92 93</p>
+<p>E-mail: yury.house@yahoo.com</p>
+<p>My Portfolio: https://yuryhouse.github.io/yurasz-portfolio </p>

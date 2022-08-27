@@ -18,5 +18,4 @@ Open for your suggestions.
 ## Contacts
 <p>Mobile: +375 44 715 92 93</p>
 <p>E-mail: yury.house@yahoo.com</p>
-<p><a href="https://yuryhouse.github.io/yurasz-portfolio" target="_blank">My Portfolio</a></p>
-- [go](http://stackoverflow.com){:target="_blank"}
+<p><a href="https://yuryhouse.github.io/yurasz-portfolio">My Portfolio</a></p>

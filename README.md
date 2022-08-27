@@ -18,4 +18,4 @@ Open for your suggestions.
 ## Contacts
 <p>Mobile: +375 44 715 92 93</p>
 <p>E-mail: yury.house@yahoo.com</p>
-<p>[My Portfolio]( https://yuryhouse.github.io/yurasz-portfolio){:target="_blank"}</p>
+<p><a href="https://yuryhouse.github.io/yurasz-portfolio" target="_blank">My Portfolio</a></p>

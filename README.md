@@ -6,7 +6,7 @@ I'd like to learn Angular and Node.js because my next goal is to become a Full-S
 I spend my free time playing Codewars or with educational books in English.
 Open for your suggestions.
 ## My Skills
-- React / Formik
+- React / React Native
 - JavaScript / TypeScript
 - HTML5 / Markdown
 - CSS3 / SASS
@@ -14,6 +14,7 @@ Open for your suggestions.
 - Unit Tests / StoryBook
 - Material UI / Ant Design
 - Redux / Redux Toolkit
+- Formik
 - Git / GitHub / GitHub Pages
 ## Contacts
 <p>Mobile: +375 44 715 92 93</p>

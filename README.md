@@ -6,7 +6,7 @@ I'd like to learn Angular and Node.js because my next goal is to become a Full-S
 I spend my free time playing Codewars or with educational books in English.
 Open for your suggestions.
 ## My Skills
-- React / React Native
+- React / React Native / Next.js
 - JavaScript / TypeScript
 - HTML5 / Markdown
 - CSS3 / SASS

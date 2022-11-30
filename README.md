@@ -14,7 +14,7 @@ Open for your suggestions.
 - Unit Tests / StoryBook
 - Material UI / Ant Design
 - Redux / Redux Toolkit
-- Formik
+- Formik / React Hook Form
 - Git / GitHub
 - GitHub Pages / GitHub Gist
 - Angular (in progress)

@@ -17,7 +17,7 @@ Open for your suggestions.
 - Formik
 - Git / GitHub
 - GitHub Pages / GitHub Gist
-- Angular
+- Angular (in progress)
 - Postman
 ## Contacts
 <p>Mobile: +375 44 715 92 93; +44 743 758 97 33</p>

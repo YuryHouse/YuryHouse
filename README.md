@@ -27,5 +27,5 @@ Open for your suggestions.
 ## Contacts
 <p>Mobile: +375 44 715 92 93; +44 743 758 97 33</p>
 <p>E-mail: yury.house@yahoo.com</p>
-<p><a href="https://yuryhouse.github.io/yurasz-portfolio">My Portfolio</a></p>
+<!-- <p><a href="https://yuryhouse.github.io/yurasz-portfolio">My Portfolio</a></p> -->
 <p><a href="https://t.me/YuryHouse">Telegram</a></p>

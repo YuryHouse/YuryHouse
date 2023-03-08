@@ -21,7 +21,8 @@ Open for your suggestions.
 - Express / NestJS
 - Postman / Swagger
 - Mongo DB / PostgeSQL / MySQL
-- Apollo / GraphQL
+- Apollo / GraphQL / REST API
+- Docker / Kubernetes
 ## Contacts
 <p>Mobile: +375 44 715 92 93; +44 743 758 97 33</p>
 <p>E-mail: yury.house@yahoo.com</p>

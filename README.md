@@ -23,6 +23,7 @@ Open for your suggestions.
 - Mongo DB / PostgeSQL / MySQL
 - Apollo / GraphQL / REST API
 - Docker / Kubernetes
+- ASW EC2 / AWS S3 / AWS Lambda
 ## Contacts
 <p>Mobile: +375 44 715 92 93; +44 743 758 97 33</p>
 <p>E-mail: yury.house@yahoo.com</p>

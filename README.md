@@ -11,7 +11,8 @@
 - Formik / React Hook Form
 - Git / GitHub
 - GitHub Pages / GitHub Gist
-- Angular (in progress)
+- Angular
+- Voe.js (in progress)
 - Express / NestJS
 - Postman / Swagger
 - Mongo DB / PostgeSQL / MySQL

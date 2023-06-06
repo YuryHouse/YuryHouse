@@ -12,7 +12,7 @@
 - Git / GitHub
 - GitHub Pages / GitHub Gist
 - Angular
-- Voe.js (in progress)
+- Vue.js (in progress)
 - Express / NestJS
 - Postman / Swagger
 - Mongo DB / PostgeSQL / MySQL

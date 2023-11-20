@@ -110,4 +110,9 @@
 
 ## My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuryHouse&show_icons=true&theme=maroongold)
+
+## Top languages used in repository card
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuryHouse&layout=donut-vertical)
+
+##Profile details card
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuryHouse&theme=gruvbox

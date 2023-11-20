@@ -109,7 +109,7 @@
 <br/>  
 
 ## My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuryHouse&show_icons=true&theme=maroongold)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuryHouse&show_icons=true&theme=gruvbox)
 
 ## My Top Languages
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuryHouse&theme=gruvbox)

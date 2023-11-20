@@ -113,6 +113,7 @@
 
 ## My Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuryHouse&layout=donut-vertical)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude})
 
-## Profile Details Card
+## My Profile Details Card
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuryHouse&theme=gruvbox)

@@ -109,5 +109,11 @@
 <br/>  
 
 ## My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuryHouse&show_icons=true&theme=maroongold)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuryHouse&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<div display="flex" flex-direction="row" justify-content="space-between">
+  <div>
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuryHouse&show_icons=true&theme=maroongold)
+  </div>
+  <div>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuryHouse&layout=pie)
+  </div>
+</div>

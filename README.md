@@ -115,4 +115,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuryHouse&layout=donut-vertical)
 
 ##Profile details card
-[](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuryHouse&theme=gruvbox)
+![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuryHouse&theme=gruvbox)

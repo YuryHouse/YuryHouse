@@ -116,3 +116,6 @@
 
 ## My Profile Details Card
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuryHouse&theme=gruvbox)
+
+## My GitHub Activity Graph
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YuryHouse&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

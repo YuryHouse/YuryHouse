@@ -4,10 +4,10 @@
 </div>  
   
 
-### <div align="center">I'm Yury, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Yury, a full-time full-stack web-developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [BIGTIME.VENTURES](https://www.bigtime.ventures/ru)  
+- 🔭 I’m currently working for [BIGTIME.VENTURES](https://www.bigtime.ventures/ru)  
   
 
 - 🌱 I’m currently learning Redis, Google cloud platfom (GCP) and Nx  

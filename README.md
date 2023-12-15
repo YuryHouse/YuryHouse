@@ -13,9 +13,6 @@
 - 🌱 I’m currently learning Redis, Google cloud platfom (GCP) and Nx  
   
 
-- ❓ Can I help you?  
-  
-
 - ⚡ Fun fact: I'm PhD in Organic Chemistry  
   
 

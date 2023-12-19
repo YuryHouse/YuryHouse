@@ -10,7 +10,7 @@
 - 🔭 I’m currently working for [BIGTIME.VENTURES](https://www.bigtime.ventures/ru)  
   
 
-- 🌱 I’m currently learning Redis, Google cloud platfom (GCP) and Nx  
+- 🌱 I’m currently learning Redis, Google cloud platfom (GCP), WebHooks, WebPack and Nx 
   
 
 - ⚡ Fun fact: I'm PhD in Organic Chemistry  

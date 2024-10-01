@@ -7,7 +7,7 @@
 ### <div align="center">I'm Yury, a full-time full-stack web-developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working for [BIGTIME.VENTURES](https://www.bigtime.ventures/ru)  
+- 🔭 I’m currently working for VEBSERVIS  
   
 
 - 🌱 I’m currently learning Redis, Google cloud platfom (GCP), WebHooks, WebPack and Nx 

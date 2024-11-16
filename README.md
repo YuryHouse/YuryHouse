@@ -10,7 +10,7 @@
 - 🔭 I’m currently working for VEBSERVIS  
   
 
-- 🌱 I’m currently learning Redis, Google cloud platfom (GCP), WebHooks, WebPack and Nx 
+- 🌱 I’m currently learning CI/CD
   
 
 - ⚡ Fun fact: I'm PhD in Organic Chemistry  

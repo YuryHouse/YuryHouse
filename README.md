@@ -7,7 +7,7 @@
 ### <div align="center">I'm Yury, a full-time Fullstack web-developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working for VEBSERVIS  
+- 🔭 I’m currently working for FORTVISION  
   
 
 - 🌱 I’m currently learning CI/CD

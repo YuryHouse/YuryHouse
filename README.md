@@ -103,7 +103,7 @@
 
 <br/>  
 
-## My Stats
+## My Statistics
 ![Yury's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuryHouse&show_icons=true&theme=radical)
 
 ## My Top Languages
